@@ -1,0 +1,54 @@
+Project Name: FLS Hamamatsu Rev. 1.0
+
+Engineer: Alan Bagish
+phone: 626 808-5429
+alanb@obs.carnegiescience.edu
+
+Carnegie Institution of Science
+813 Santa Barbara St.
+Pasadena, CA  91101
+FR4 6-layer board
+1.330"W"x 1.477"T
+0.0625 finished thickness
+Surface finish: 
+minimum hole size 8 mils
+Minimum trace: 10 mils
+Minimum space: 10 mils
+Black solder mask top and bottom
+White silkscreen top and bottom
+via's in pads: yes
+electrical test: yes
+no fill vias
+
+Please quote price matrix for:
+
+
+Procurement of parts and assembly by PCB house of surface mount components (no thru-hole) 
+
+
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FLS HAMAMATSU_A PCB Aug_14_2012.PrjPcb]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GTL]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GP1]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.G1]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.G2]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GP2]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GBL]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GTO]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GTS]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GBS]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GBO]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GM1]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GM13]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.GM15]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.RUL]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.EXTREP]
+   Generated File[FLS HAMAMATSU_A Aug_14_2012.REP]
+
+
+Files Generated   : 16
+Documents Printed : 0
+
+Finished Output Generation At 10:26:03 On 2012-08-14

@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\alanb OCIW work Apr 30 2012\M2FS aUG 12 dATA fORMATTER FILES\hamamatsu\FLS HAMAMATSU_A Aug_14_2012.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit_2|Scope=Board|Allowed=1
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=1
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.80
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
